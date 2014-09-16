@@ -1,0 +1,28 @@
+{
+  "name": "github-export",
+  "version": "0.0.0",
+  "description": "Export issues from GitHub",
+  "keywords": [
+    "GitHub",
+    "export",
+    "issues"
+  ],
+  "homepage": "https://github.com/scottgonzalez/github-export",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottgonzalez/github-export.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scottgonzalez/github-export/issues"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "author": {
+    "name": "Scott González",
+    "email": "scott.gonzalez@gmail.com",
+    "url": "http://scottgonzalez.com"
+  },
+  "dependencies": {
+    "github-request": "1.1.0"
+  }
+}
